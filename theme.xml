@@ -164,7 +164,7 @@
 			<!-- Posicion y tamaño del video juego -->
 
 			<video name="md_video">
-				<maxSize>0.35 0.46</maxSize>
+				<maxSize>0.35 0.44</maxSize>
 				<pos>0.755 0.4</pos>
 				<delay>1.5</delay>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
@@ -229,7 +229,7 @@
 		<text name="md_description">
 			<color>00d2f3</color>
 			<pos>0.57 0.79</pos>
-			<size>0.385 0.13</size>
+			<size>0.38 0.13</size>
 			<fontPath>./_art/moonhouse.ttf</fontPath>
 			<fontSize>0.018</fontSize>
 			<forceUppercase>1</forceUppercase>
