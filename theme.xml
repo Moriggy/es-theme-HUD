@@ -220,7 +220,7 @@
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./_art/moonhouse.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.14 0.04</size>
+			<size>0.2 0.04</size>
 			<zIndex>3</zIndex>
 		</text>
 
@@ -262,7 +262,7 @@
 		</text>
 		
 		<text name="md_genre">
-			<pos>0.71 0.69</pos>
+			<pos>0.71 0.685</pos>
 		</text>
 			
 		<text name="md_lbl_releasedate">
