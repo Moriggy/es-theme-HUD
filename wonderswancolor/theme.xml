@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<!-- Logo sistema -->
+	
+	<view name="system, basic, detailed, video">
+		<image name="logo">
+			<path>./logo.png</path>
+		</image>
+	</view>
+	
+	<!-- Neon consola -->
+	
+	<view name="system">
+		<image name="console" extra="true">
+			<path>./console.png</path>
+		</image>
+	</view>
+	
+</theme>
