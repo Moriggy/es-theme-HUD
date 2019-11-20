@@ -24,16 +24,9 @@
 				<zIndex>1</zIndex>
 			</image>
 			
-			<!-- Logo de sistema -->
-			
-			<image name="logo">
-				<path>./_art/logos/${system.theme}/logo.png</path>
-			</image>
-			
 			<!-- Neon consola -->
 			
 			<image name="console" extra="true">
-				<path>./_art/logos/${system.theme}/console.png</path>
 				<maxSize>0.500 0.500</maxSize>
 				<pos>0.325 0.16</pos>
 				<color>FFFFFF</color>
